@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msangy
 - 👀 I’m interested in building games
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning python
 - 💞️ I’m not yet looking to collaborate 
 
 <!---
